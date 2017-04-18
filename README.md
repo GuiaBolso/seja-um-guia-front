@@ -30,47 +30,47 @@ Temos uma stack bem definida e estamos procurando profissionais que estejam bem 
 
 - Voce deve desenvolver uma aplicação que consuma algum conteúdo aberto (github, facebook, twitter, hackernews, etc), seja criativo;
 - A aplicação deve ter uma página inicial com uma lista de itens (uma listagem mesmo);
-- Ao acionar (click ou touch) um desses itens, a aplicão deve mostrar os detalhes desse item em uma nova página (mas por que não pode modal?...pq é feio...);
-- A lista deve ser paginada (o.O)... e se a api não for paginada, paginar no front, 10 items por página...
+- Ao acionar (click ou touch) um desses itens, a aplicação deve mostrar os detalhes desse item em uma nova página (mas por que não pode modal?...porque é feio...);
+- A lista deve ser paginada (o.O)... e se a API não for paginada, paginar no front, 10 itens por página...
 
 ### Quais são os requisitos?
 
 Você deve fazer um **fork** deste repositório e desenvolver nele a sua aplicação. 
 
-Ao final, você envia para a gente um e-mail explicando o quê você fez, o por quê e qual sua linha de raciocínio no que achar interesante contar. Solte o verbo, quanto mais você escrever, mais a gente te conhece!!!
+Ao final, você envia para a gente um e-mail explicando o quê você fez, o por quê e qual sua linha de raciocínio no que achar interessante contar. Solte o verbo, quanto mais você escrever, mais a gente te conhece!!!
 
 ##### Mas atenção!
 
-- O código deve prezar o estilo funcional de programação
-- Deve ser responsivo e funcionar num desktop(width >= 1024px) e em um celular(width < 640px)
+- O código deve prezar o estilo funcional de programação;
+- Deve ser responsivo e funcionar num desktop(width >= 1024px) e em um celular(width < 640px).
 
 ##### Tecnologias que você deve usar
 
-- [React](https://facebook.github.io/react/)
-- [Redux](http://redux.js.org/)
-- [Redux-saga](https://redux-saga.github.io/redux-saga/)
-- [React-router-redux](https://www.npmjs.com/package/react-router-redux)
-- [Reselect](https://github.com/reactjs/reselect)
-- [Fetch](https://developer.mozilla.org/en/docs/Web/API/Fetch_API)
-- [Flexbox](https://developer.mozilla.org/en/docs/Web/CSS/flex)
-- [Lodash](https://lodash.com/)
-- [Webpack](https://webpack.github.io/)
-- [ES6 em stage-0 com babeljs](http://babeljs.io/)
+- [React](https://facebook.github.io/react/);
+- [Redux](http://redux.js.org/);
+- [Redux-saga](https://redux-saga.github.io/redux-saga/);
+- [React-router-redux](https://www.npmjs.com/package/react-router-redux);
+- [Reselect](https://github.com/reactjs/reselect);
+- [Fetch](https://developer.mozilla.org/en/docs/Web/API/Fetch_API);
+- [Flexbox](https://developer.mozilla.org/en/docs/Web/CSS/flex);
+- [Lodash](https://lodash.com/);
+- [Webpack](https://webpack.github.io/);
+- [ES6 em stage-0 com babeljs](http://babeljs.io/).
 
 ##### Ganhe pontos
 
 Pense simples, cumpra os requisitos. Agora, se você estiver na fome e quiser pontinhos a mais, temos algumas dicas:
 
-- Alguma coisa em SVG, escrito por você
-- Os itens podendo ser baixados em formato TXT
-- Async/await
-- Animações com keyframes em CSS
-- Infinite scrolling
-- ImmutableJS
-- ServiceWorkers para funcionar offline
-- Fetch com Web Worker
-- Styled components
-- Testes unitários
+- Alguma coisa em SVG, escrito por você;
+- Os itens podendo ser baixados em formato TXT;
+- Async/await;
+- Animações com keyframes em CSS;
+- Infinite scrolling;
+- ImmutableJS;
+- ServiceWorkers para funcionar offline;
+- Fetch com Web Worker;
+- Styled components;
+- Testes unitários.
 
 Você pode inovar, inventar seus pontinhos e adicionar mais coisas, mas lembre de descrever o que fez e o motivo no e-mail.
 
