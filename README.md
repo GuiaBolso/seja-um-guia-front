@@ -48,6 +48,8 @@ Ao final, você envia para a gente um **e-mail** explicando o quê você fez, o 
 
 - [React](https://facebook.github.io/react/);
 - [Redux](http://redux.js.org/);
+
+##### Tecnologias que seria bacana usar
 - [Redux-saga](https://redux-saga.github.io/redux-saga/);
 - [React-router-redux](https://www.npmjs.com/package/react-router-redux);
 - [Reselect](https://github.com/reactjs/reselect);
@@ -82,7 +84,7 @@ Você nos envia um e-mail para **ZnJvbnRtb25zdHJhb0BndWlhYm9sc28uY29tLmJy** cont
 - Seu **telefone** para contato;
 - Seu **LinkedIn**;
 - URL do **repositório**;
-- URL para o (**GH-Pages**)[https://pages.github.com/] com uma versão **compilada** da sua aplicação;
+- URL para o [**GH-Pages**](https://pages.github.com/) com uma versão **compilada** da sua aplicação;
 - Uma breve **análise** com o motivo das suas **decisões técnicas**;
 - **Observações e comentário**s sobre o seu código que sejam interessantes apontar;
 - **Onde você achou** esse repositório ("Fulaninho me indicou", "Vi no grupo X", "Tive um sonho consciente...", etc);
