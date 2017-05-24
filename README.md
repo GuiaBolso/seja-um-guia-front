@@ -83,8 +83,8 @@ Você nos envia um e-mail para **ZnJvbnRtb25zdHJhb0BndWlhYm9sc28uY29tLmJy** cont
 - Seu **nome completo**;
 - Seu **telefone** para contato;
 - Seu **LinkedIn**;
-- URL do **repositório**;
-- URL para o [**GH-Pages**](https://pages.github.com/) com uma versão **compilada** da sua aplicação;
+- URL do **repositório**; *
+- URL para o [**GH-Pages**](https://pages.github.com/) com uma versão **compilada** da sua aplicação; *
 - Uma breve **análise** com o motivo das suas **decisões técnicas**;
 - **Observações e comentário**s sobre o seu código que sejam interessantes apontar;
 - **Onde você achou** esse repositório ("Fulaninho me indicou", "Vi no grupo X", "Tive um sonho consciente...", etc);
@@ -109,6 +109,10 @@ E você faz a outra. Aqui usamos o máximo de ferramentas para aumentar nossa pr
 #### Eu não sei React, posso usar <biblioteca ou framework>?
 
 Não. Nós realmente apreciamos a tecnologia e estamos antenados com várias tendências de mercado mas, hoje, nossa stack é com as ferramentas que listamos então, por mais que amemos a infinidade de formas de se trabalhar, precisamos otimizar nossa produtividade e garantir manutenção no que temos no ar.
+
+#### * Eu não quero que saibam que estou participando de um teste...
+
+Ok, nesse caso específico, você pode empacotar o que você fez (sem node_modules) e mandar anexo no e-mail... A gente entende :)
 
 ## Licença
 
