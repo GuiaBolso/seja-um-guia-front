@@ -53,7 +53,7 @@ Caso tenha feito em aberto:
 - URL do **repositório**;
 - URL para o [**GH-Pages**](https://pages.github.com/) com uma versão **compilada** da sua aplicação;
 
-Caso queira enviar o código
+Caso queira enviar só código
 - Um arquivo anexo, com seu código fonte (sem **node_modules**, por favor)
 
 - **Observações e comentário**s sobre o seu código que sejam interessantes apontar;
