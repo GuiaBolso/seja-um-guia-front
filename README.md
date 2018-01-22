@@ -42,7 +42,7 @@ Para tanto você deverá construir uma aplicação com:
 
 Você pode utilizar um **boilerplate** para inicializar o webapp.
 
-**PS. lembre-se, este é um desafio de interface. O resultado, qualidade e apresentação também serão levados em conta. Se quiser, use um framework, mas não esqueça que a primeira impressão conta.**
+**PS. lembre-se, este é um desafio de front. O resultado, qualidade e apresentação também serão levados em conta. Se quiser, use um framework, mas não esqueça que a primeira impressão conta.**
 
 ### Como entrego?
 
