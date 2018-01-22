@@ -1,6 +1,8 @@
 # Front-end Engineer no [GuiaBolso](https://www.guiabolso.com.br)
 
-Aqui no [Guiabolso](https://www.guiabolso.com.br) trabalhamos em duplas. Nosso time é multidisciplinar, com foco no produto e na evolução tecnológica dos nossos sistemas. 
+**Por favor, leia cada parágrafo atentamente. Todos são importantes**
+
+Aqui no [Guiabolso](https://www.guiabolso.com.br) trabalhamos em times, que chamamos de famílias. Nosso time é multidisciplinar, com foco no produto e na evolução tecnológica dos nossos sistemas. 
 
 Em um ambiente descontraído, prezamos pela qualidade e participação ativa dos desenvolvedores na construção da nossa plataforma. Temos um carinho especial pelo usuário, direcionando nossas decisões pela experiência e fazendo constantes ajustes para alinhar os nossos sistemas com as necessidades do mercado.
 
@@ -15,31 +17,32 @@ No Front-end nós temos os canais web, plataforma e websites que utilizamos para
 
 Você quer trabalhar no GuiaBolso? Vamos te ajudar!
 
-Para você, **front-end engineer** (que é um desenvolvedor de software e não picador de PSD), daremos o caminho das pedras.
+Para você, **front-end engineer** (que é um desenvolvedor de software e **não picador de PSD**), daremos o caminho das pedras.
 
 Temos um processo seletivo que é dividido em algumas etapas. 
 
 - O desafio técnico (descrito nesse repositório);
-- Uma conversa com nossa **master blaster equipe técnica de front**;
+- Uma conversa com nossa **master blaster equipe técnica**, pra fazer um fit cultural;
 - Conversa com o RH;
-- Conversa com os Diretores.
 
 ### Qual o tal desafio técnico?
 
 Estamos procurando profissionais que estejam bem familiarizados com a stack que estamos utilizando. Então, nossa proposta é a seguinte:
 
 - Voce deve desenvolver uma **aplicação web** (Web App) que consuma a API do [ChuckNorris.io](https://api.chucknorris.io/);
-- A aplicação deve ter uma **página inicial** com a [**lista de categorias**](https://api.chucknorris.io/jokes/categories) (uma listagem mesmo);
+- A aplicação deve ter uma **página inicial** com a [**lista de categorias**](https://api.chucknorris.io/jokes/categories) (uma listagem mesmo, consumindo da API);
 - Quando clicar em uma categoria, carregar o conteúdo vindo da API. Ex.: [Categoria `science`](https://api.chucknorris.io/jokes/random?category=science)
 
 ### Quais são os requisitos?
 
-Para tanto você deverá utilizar
+Para tanto você deverá construir uma aplicação com:
 
 - [React](https://facebook.github.io/react/);
 - [Redux](http://redux.js.org/);
 
 Você pode utilizar um **boilerplate** para inicializar o webapp.
+
+**PS. lembre-se, este é um desafio de interface. O resultado, qualidade e apresentação também serão levados em conta. Se quiser, use um framework, mas não esqueça que a primeira impressão conta.**
 
 ### Como entrego?
 
@@ -49,15 +52,17 @@ Você nos envia um e-mail para **frontmonstrao[arroba]guiabolso[ponto]com[ponto]
 - Seu **telefone** para contato;
 - Seu **LinkedIn** (se tiver);
 
-Caso tenha feito em aberto:
+- **Observações e comentário**s sobre o seu código que sejam interessantes apontar;
+- **Onde você achou** esse repositório ("Fulaninho me indicou", "Vi no grupo X", "Tive um sonho consciente...", etc);
+
 - URL do **repositório**;
 - URL para o [**GH-Pages**](https://pages.github.com/) com uma versão **compilada** da sua aplicação;
 
-Caso queira enviar só código
-- Um arquivo anexo, com seu código fonte (sem **node_modules**, por favor)
+**Mas eu estou empregado e não posso deixar isso público :(**
 
-- **Observações e comentário**s sobre o seu código que sejam interessantes apontar;
-- **Onde você achou** esse repositório ("Fulaninho me indicou", "Vi no grupo X", "Tive um sonho consciente...", etc);
+É importante ter uma versão publicada, portanto, se não se sentir confortável com o github (que é 100% público) você pode utlizar o [gitlab](https://about.gitlab.com/), [bitbucket](https://bitbucket.org/) ou até mesmo o [heroku](https://www.heroku.com/). Se não puder abrir o código fonte em um repositório, nos envie **compactado** e sem o **node_modules**
+
+Obrigado e boa sorte!
 
 ## Licença
 
