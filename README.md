@@ -58,9 +58,23 @@ Você nos envia um e-mail para **frontmonstrao[arroba]guiabolso[ponto]com[ponto]
 - URL do **repositório**;
 - URL para o [**GH-Pages**](https://pages.github.com/) com uma versão **compilada** da sua aplicação;
 
-**Mas eu estou empregado e não posso deixar isso público :(**
+**Mas eu estou empregado e não posso deixar isso público ou não vou usar github :(**
 
 É importante ter uma versão publicada, portanto, se não se sentir confortável com o github (que é 100% público) você pode utlizar o [gitlab](https://about.gitlab.com/), [bitbucket](https://bitbucket.org/) ou até mesmo o [heroku](https://www.heroku.com/). Se não puder abrir o código fonte em um repositório, nos envie **compactado** e sem o **node_modules**
+
+### Pontos de avaliação
+
+Veja, esse teste, além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma frontend. O foco da avaliação é a sua familiaridade com o desenvolvimenteo React e Redux, lembrando que há um caráter seletivo.
+
+Nesse sentido, alguns pontos que devem ser observados:
+
+- Estética é ponto de vista. Seja consistente e se estilo não for seu forte, use um template ou um framework.
+- Provavelmente, nossa primeira experiência com seu resultado vai ser através de um celular. Use um layout pensando nisso.
+- Como você organiza seus arquivos, métodos, nomeia variáveis, lida com o seu código como um todo são outros pontos observados. Seja cuidadoso, utilize boas práticas e padrões.
+- Seja consistente. Se escolher estilo inline, siga até o final, assim como se usar sass, use os recursos dele. Não se acanhe em usar um boilerplate pra facilitar a configuração das coisas.
+- Siga as boas práticas do React e do Redux, bem como respeite as boas práticas do javascript (um linter pode te ajudar).
+- Codifique como você gostaria de trabalhar.
+- **Leia todo o desafio, 3 vezes, até o final e escreva "Batata" no final do seu e-mail de entrega.**
 
 Obrigado e boa sorte!
 
