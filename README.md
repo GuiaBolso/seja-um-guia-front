@@ -55,6 +55,10 @@ Você nos envia um e-mail para **frontmonstrao[arroba]guiabolso[ponto]com[ponto]
 - **Observações e comentário**s sobre o seu código que sejam interessantes apontar;
 - **Onde você achou** esse repositório ("Fulaninho me indicou", "Vi no grupo X", "Tive um sonho consciente...", etc);
 
+#### Com GIT
+
+Cuide do repositório que vai mandar. Crie um readme.md, dê um nome semântico, zele pelo conteúdo que vai entregar. Lembre-se, esse desafio é um resumo de como você trabalha.
+
 - URL do **repositório**;
 - URL para o [**GH-Pages**](https://pages.github.com/) com uma versão **compilada** da sua aplicação;
 
@@ -62,9 +66,18 @@ Você nos envia um e-mail para **frontmonstrao[arroba]guiabolso[ponto]com[ponto]
 
 É importante ter uma versão publicada, portanto, se não se sentir confortável com o github (que é 100% público) você pode utlizar o [gitlab](https://about.gitlab.com/), [bitbucket](https://bitbucket.org/) ou até mesmo o [heroku](https://www.heroku.com/). Se não puder abrir o código fonte em um repositório, nos envie **compactado** e sem o **node_modules**
 
+#### Com [CodeSandbox](https://codesandbox.io)
+
+Caso queira criar e editar seu teste em qualquer lugar, você pode usar uma plataforma remota como o CodeSandbox.
+
+- Entre com o seu GitHub
+- Crie uma aplicação React
+- Instale as dependências
+- Envie a URL do seu sandbox para nós.
+
 ### Pontos de avaliação
 
-Veja, esse teste, além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma frontend. O foco da avaliação é a sua familiaridade com o desenvolvimenteo React e Redux, lembrando que há um caráter seletivo.
+Veja, esse teste, além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma frontend. O foco da avaliação é a sua familiaridade com o desenvolvimenteo React e Redux, lembrando que há um caráter seletivo. 
 
 Nesse sentido, alguns pontos que devem ser observados:
 
@@ -75,6 +88,8 @@ Nesse sentido, alguns pontos que devem ser observados:
 - Siga as boas práticas do React e do Redux, bem como respeite as boas práticas do javascript (um linter pode te ajudar).
 - Codifique como você gostaria de trabalhar.
 - **Leia todo o desafio, 3 vezes, até o final e escreva "Batata" no final do seu e-mail de entrega.**
+
+Vamos ler seu código, apreciar o resultado, olhar, testar. Invista o tempo necessário para fazer um desafio que demonstre o resumo das suas capacidades técnicas. Faça com carinho.
 
 Obrigado e boa sorte!
 
