@@ -2,7 +2,7 @@
 
 **Por favor, leia cada parágrafo atentamente. Todos são importantes**
 
-Aqui no [Guiabolso](https://www.guiabolso.com.br) trabalhamos em times, que chamamos de famílias. Nosso time é multidisciplinar, com foco no produto e na evolução tecnológica dos nossos sistemas. 
+Aqui no [Guiabolso](https://www.guiabolso.com.br) trabalhamos em times. Nosso time é multidisciplinar, com foco no produto e na evolução tecnológica dos nossos sistemas. 
 
 Em um ambiente descontraído, prezamos pela qualidade e participação ativa dos desenvolvedores na construção da nossa plataforma. Temos um carinho especial pelo usuário, direcionando nossas decisões pela experiência e fazendo constantes ajustes para alinhar os nossos sistemas com as necessidades do mercado.
 
