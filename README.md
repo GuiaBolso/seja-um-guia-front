@@ -30,15 +30,20 @@ Temos um processo seletivo que é dividido em algumas etapas.
 Estamos procurando profissionais que estejam bem familiarizados com a stack que estamos utilizando. Então, nossa proposta é a seguinte:
 
 - Voce deve desenvolver uma **aplicação web** (Web App) que consuma a API do [ChuckNorris.io](https://api.chucknorris.io/);
+- Essa aplicação deve ser imaginada como um primeiro passo para **algo que será maior**
 - A aplicação deve ter uma **página inicial** com a [**lista de categorias**](https://api.chucknorris.io/jokes/categories) (uma listagem mesmo, consumindo da API);
 - Quando clicar em uma categoria, carregar o conteúdo vindo da API. Ex.: [Categoria `science`](https://api.chucknorris.io/jokes/random?category=science)
+- Ter um botão **carregar outra** para ver outro conteú da mesma categoria
 
 ### Quais são os requisitos?
 
 Para tanto você deverá construir uma aplicação com:
 
 - [React](https://facebook.github.io/react/);
+
 - [Redux](http://redux.js.org/);
+- ou [Mobx](https://mobx.js.org/);
+- ou [Hooks com Context](https://pt-br.reactjs.org/docs/hooks-reference.html)
 
 Você pode utilizar um **boilerplate** para inicializar o webapp.
 
@@ -77,7 +82,7 @@ Caso queira criar e editar seu teste em qualquer lugar, você pode usar uma plat
 
 ### Pontos de avaliação
 
-Veja, esse teste, além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma frontend. O foco da avaliação é a sua familiaridade com o desenvolvimenteo React e Redux, lembrando que há um caráter seletivo. 
+Veja, esse teste, além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma frontend. O foco da avaliação é a sua familiaridade com o desenvolvimenteo React e gerenciamento de estado, lembrando que há um caráter seletivo. 
 
 Nesse sentido, alguns pontos que devem ser observados:
 
@@ -85,9 +90,19 @@ Nesse sentido, alguns pontos que devem ser observados:
 - Provavelmente, nossa primeira experiência com seu resultado vai ser através de um celular. Use um layout pensando nisso.
 - Como você organiza seus arquivos, métodos, nomeia variáveis, lida com o seu código como um todo são outros pontos observados. Seja cuidadoso, utilize boas práticas e padrões.
 - Seja consistente. Se escolher estilo inline, siga até o final, assim como se usar sass, use os recursos dele. Não se acanhe em usar um boilerplate pra facilitar a configuração das coisas.
-- Siga as boas práticas do React e do Redux, bem como respeite as boas práticas do javascript (um linter pode te ajudar).
+- Siga as boas práticas do React e da ferramenta escolhida, bem como respeite as boas práticas do javascript (um linter pode te ajudar).
 - Codifique como você gostaria de trabalhar.
-- **Leia todo o desafio, 3 vezes, até o final e escreva "Batata" no final do seu e-mail de entrega.**
+- **Leia todo o desafio, 3 vezes, até o final e escreva "GELÉIA" no final do seu e-mail de entrega.**
+
+### O que provavelmente vamos olhar
+
+- Organização de `pastas`
+- Imports no `package.json`
+- `Nome dos componentes` e responsabilidades
+- Uso das ferramentas de `gerenciamento de estado`
+- Separação de responsabilidades
+- `HTML` e boas práticas
+- `CSS` e boas práticas
 
 Vamos ler seu código, apreciar o resultado, olhar, testar. Invista o tempo necessário para fazer um desafio que demonstre o resumo das suas capacidades técnicas. Faça com carinho.
 
