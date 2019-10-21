@@ -33,7 +33,7 @@ Estamos procurando profissionais que estejam bem familiarizados com a stack que 
 - Essa aplicação deve ser imaginada como um primeiro passo para **algo que será maior**
 - A aplicação deve ter uma **página inicial** com a [**lista de categorias**](https://api.chucknorris.io/jokes/categories) (uma listagem mesmo, consumindo da API);
 - Quando clicar em uma categoria, carregar o conteúdo vindo da API. Ex.: [Categoria `science`](https://api.chucknorris.io/jokes/random?category=science)
-- Ter um botão **carregar outra** para ver outro conteú da mesma categoria
+- Ao carregar uma piada, ter um botão **carregar outra** para ver outro conteúdo da mesma categoria
 
 ### Quais são os requisitos?
 
