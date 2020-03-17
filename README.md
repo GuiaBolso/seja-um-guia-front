@@ -1,4 +1,4 @@
-# Front-end Engineer no [GuiaBolso](https://www.guiabolso.com.br)
+# Front-end Engineer no [Guiabolso](https://www.guiabolso.com.br)
 
 **Por favor, leia cada parágrafo atentamente. Todos são importantes**
 
@@ -15,7 +15,7 @@ No Front-end nós temos os canais web, plataforma e websites que utilizamos para
 
 ### Gostou de tudo que está aí em cima? Então vem pra cá!!!
 
-Você quer trabalhar no GuiaBolso? Vamos te ajudar!
+Você quer trabalhar no Guiabolso? Vamos te ajudar!
 
 Para você, **front-end engineer** (que é um desenvolvedor de software e **não picador de PSD**), daremos o caminho das pedras.
 
