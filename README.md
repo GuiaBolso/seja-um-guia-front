@@ -11,7 +11,7 @@ Hoje trabalhamos com alguns grandes produtos:
 - **Controle financeiro**: uma ferramenta para gerenciamento de finanças pessoais, em um aplicativo, que se integra automaticamente com sua conta bancária (use e veja **;)**);
 - **Crédito pessoal**: canais de aquisição para crédito pessoal, com foco em ajudar o nosso usuário a sair daquela situação chata com o cartão ou o cheque especial.
 
-No Front-end nós temos os canais web, plataforma e websites que utilizamos para divulgar conteúdo, aquisição de novos usuários e manutenção de algumas informações. Discutimos constantemente as tecnologias que usamos e como melhorar a experiência para os nossos usuários e clientes, bem como um trabalho muito próximo com a equipe de design e produto.
+No Front-end nós temos os canais web, plataforma, backoffice e websites que utilizamos para divulgar conteúdo, aquisição de novos usuários e manutenção de algumas informações. Discutimos constantemente as tecnologias que usamos e como melhorar a experiência para os nossos usuários e clientes, bem como um trabalho muito próximo com a equipe de design e produto.
 
 ### Gostou de tudo que está aí em cima? Então vem pra cá!!!
 
